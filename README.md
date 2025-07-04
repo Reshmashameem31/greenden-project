@@ -12,7 +12,7 @@ Simple footer layout
 HTML5
 Tailwind CSS (via CDN)
 🔗 Live Website
-( https://reshmashameem31.github.io/greenden-project/)
+(https://reshmashameem31.github.io/greenden-project/)
 
 💻 GitHub Repository
 (https://github.com/Reshmashameem31/greenden-project)
